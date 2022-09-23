@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweblabs"]=self["webpackChunkweblabs"]||[]).push([[633],{8633:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var a=r(3396);const s={class:"container"},l=(0,a._)("div",{class:"lab__wrapper"},[(0,a._)("h1",null,"Лабораторная работа 2"),(0,a._)("h2",null,"Работа с Git")],-1),t=[l];function u(n,e){return(0,a.wg)(),(0,a.iD)("div",s,t)}var c=r(89);const i={},b=(0,c.Z)(i,[["render",u]]);var f=b}}]);
+//# sourceMappingURL=633.07a0d089.js.map
